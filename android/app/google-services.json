@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "257780278198",
+    "firebase_url": "https://one6-attendance-400b4-default-rtdb.firebaseio.com",
+    "project_id": "one6-attendance-400b4",
+    "storage_bucket": "one6-attendance-400b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257780278198:android:3898fb5482720874711717",
+        "android_client_info": {
+          "package_name": "com.one6.attedance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257780278198-gugjnvv8jtf9sgohv6dqob0d6bkvt698.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.one6.attedance",
+            "certificate_hash": "32a6c6098f7e9076d13a3292d55d3f5154d75e0a"
+          }
+        },
+        {
+          "client_id": "257780278198-7aau61311k9nvg913088uls8behv8n3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Ek0Q-V9oDQ_kquBA-Kg8dMUYY5QrBlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257780278198-7aau61311k9nvg913088uls8behv8n3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
